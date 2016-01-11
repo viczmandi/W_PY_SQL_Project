@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/sql/01_hr_db_creation.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/02_hr_db_table_creations_and_data_inserts.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/aggregate_functions_and_GROUP_BY_query.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/basic_select_query.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/drop_tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/joins_query.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/restricting_and_sorting_data_query.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/string_functions_query.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/subqueries_query.sql" dialect="MySQL" />
+  </component>
+</project>
